@@ -8,6 +8,14 @@ Automatically google account login with export cookies.
 $ npm install
 ```
 
+## Add accounts
+
+```bash
+- Goto .data directory
+- Update accounts.txt with your data
+- Use newline for batch
+```
+
 ## Running the app
 
 ```bash
